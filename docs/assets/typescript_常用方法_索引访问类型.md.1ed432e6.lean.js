@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as p}from"./app.0da40ffe.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"typescript/常用方法/索引访问类型.md","lastUpdated":1688639464000}'),l={name:"typescript/常用方法/索引访问类型.md"},e=p("",8),o=[e];function r(t,c,D,y,i,C){return a(),n("div",null,o)}const m=s(l,[["render",r]]);export{u as __pageData,m as default};
