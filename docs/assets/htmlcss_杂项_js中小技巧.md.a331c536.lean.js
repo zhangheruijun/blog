@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.95841843.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"htmlcss/杂项/js中小技巧.md","lastUpdated":1695113274000}'),p={name:"htmlcss/杂项/js中小技巧.md"},e=l("",2),o=[e];function c(r,t,i,D,d,_){return a(),n("div",null,o)}const m=s(p,[["render",c]]);export{y as __pageData,m as default};

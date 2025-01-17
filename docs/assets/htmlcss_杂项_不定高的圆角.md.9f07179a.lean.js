@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as p}from"./app.95841843.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"htmlcss/杂项/不定高的圆角.md","lastUpdated":1698402766000}'),l={name:"htmlcss/杂项/不定高的圆角.md"},e=p("",2),o=[e];function c(r,t,D,i,_,d){return a(),n("div",null,o)}const u=s(l,[["render",c]]);export{b as __pageData,u as default};
