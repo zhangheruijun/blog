@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,a as e}from"./app.fbd6e7ea.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"typescript/常用方法/交叉类型.md","lastUpdated":1688720761000}'),p={name:"typescript/常用方法/交叉类型.md"},t=e("",2),l=[t];function o(r,c,i,_,d,D){return n(),a("div",null,l)}const u=s(p,[["render",o]]);export{m as __pageData,u as default};

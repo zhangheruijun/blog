@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as l}from"./app.95841843.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"正则/基本用法/常用.md","lastUpdated":1693462893000}'),p={name:"正则/基本用法/常用.md"},o=l("",1),e=[o];function c(r,D,t,y,b,i){return a(),n("div",null,e)}const u=s(p,[["render",c]]);export{A as __pageData,u as default};

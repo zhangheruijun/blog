@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as p}from"./app.fbd6e7ea.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"git/emp/更改分支名.md","lastUpdated":1681980111000}'),l={name:"git/emp/更改分支名.md"},e=p("",2),o=[e];function r(t,c,D,y,i,C){return a(),n("div",null,o)}const b=s(l,[["render",r]]);export{_ as __pageData,b as default};

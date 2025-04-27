@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as e}from"./app.0da40ffe.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"typescript/配置文件/创建ts.md","lastUpdated":1693304145000}'),p={name:"typescript/配置文件/创建ts.md"},t=e("",5),o=[t];function c(l,r,i,d,_,u){return a(),n("div",null,o)}const b=s(p,[["render",c]]);export{m as __pageData,b as default};
