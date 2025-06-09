@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as p}from"./app.5b8334ac.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"typescript/常用方法/函数重载.md","lastUpdated":1745828310000}'),l={name:"typescript/常用方法/函数重载.md"},o=p("",4),e=[o];function r(c,t,D,y,i,C){return a(),n("div",null,e)}const A=s(l,[["render",r]]);export{u as __pageData,A as default};
